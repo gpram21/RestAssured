@@ -1,4 +1,4 @@
-Feature: Is it Friday yet vaishu??
+Feature: Is it Friday yet vaishu prabhu??
   Everybody wants to know when it's Friday
 
   Scenario: Sunday isn't Friday
